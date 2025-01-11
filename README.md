@@ -1,7 +1,6 @@
 ![Welcome Banner](https://raw.githubusercontent.com/BEPb/BEPb/dfb3c41cccdaefd89d7fe6d92f6007a1025015a9/assets/Bottom_up.svg)
 ![Welcome Banner](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?serdarch1k=David&show_icons=true&theme=radical)
 
 <!-- Here are some ideas to get you started:
 
