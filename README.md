@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Sardorbek%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20impactful%20web%20apps&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Sardorbek%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Full-Stack%20Developer%20%7C%20Learning%20%26%20Building%20every%20day&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Enthusiast;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FrontEnd+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Learner;Growing+every+day%2C+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🔥 Why Choose Me?
+## 🌱 Why Work With Me?
 
-- ✅ **Full-Stack Expertise** — Comfortable with both frontend and backend development
-- ✅ **Fast Learner** — Adapt quickly to new tools, frameworks, and challenges
-- ✅ **Problem Solver** — Love tackling complex problems with clean, efficient code
-- ✅ **Team Player** — Strong communicator who thrives in collaborative environments
+- 🚀 **Eager to Grow** — Actively building skills across both frontend and backend
+- 📖 **Fast Learner** — Pick up new tools and frameworks quickly, and enjoy the process
+- 🔍 **Detail-Oriented** — I care about writing clean, readable code and improving every day
+- 🤝 **Team-Friendly** — Easy to work with, open to feedback, and love collaborating
 
 ---
 
 ## 👤 About Me
 
-- 🚀 Passionate about building full-stack web applications that make a real impact
-- 🌱 Currently learning and growing with **React, Next.js, Node.js, TypeScript, and Express.js**
-- 🍽️ Currently working on **Starbelly** — a restaurant admin panel & user-facing SPA
-- 💡 Open to collaboration on **web development projects** and **open-source contributions**
-- ⚡ Fun fact: I enjoy solving complex puzzles and learning something new every day
+- 🌱 Junior Full-Stack Developer on a journey to become better every single day
+- 💻 Currently sharpening my skills in **React, Next.js, Node.js, TypeScript, and Express.js**
+- 🍽️ Building **Starbelly** — a real-world restaurant admin panel & user-facing SPA
+- 🤝 Open to collaboration on **web development projects** — always happy to learn from others
+- ⚡ Fun fact: I enjoy solving complex puzzles and find debugging oddly satisfying
 
 ---
 
@@ -112,22 +112,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=serdarch1k&color=58A6FF&style=flat-square&label=Profile+Views)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Every expert was once a beginner. Keep coding, keep growing."*
 
 </div>
-## Hi there 👋
-
-<!--
-**serdarch1k/serdarch1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
