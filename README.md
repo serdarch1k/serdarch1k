@@ -1,18 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#grad)" rx="0"/>
-  <path d="M0,160 C150,120 300,180 450,150 C600,120 750,170 900,140 L900,200 L0,200 Z" fill="#0d1117" opacity="0.5"/>
-  <text x="450" y="95" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Hi, I'm Sardorbek 👋</text>
-  <text x="450" y="135" font-family="Arial, sans-serif" font-size="16" fill="#8b9dc3" text-anchor="middle">FrontEnd Developer | Learning &amp; Building every day</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%2C%20I'm%20Sardorbek%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Learning%20%26%20Building%20every%20day&descAlignY=58&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FrontEnd+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Learner;Growing+every+day%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
