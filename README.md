@@ -88,8 +88,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=serdarch1k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarch1k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="41%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=serdarch1k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarch1k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="41%"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=serdarch1k&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
 
