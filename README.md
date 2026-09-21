@@ -57,7 +57,7 @@
 
 ---
 
-## 🚧 Currently Working On
+<!-- ## 🚧 Currently Working On
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 | 🍽️ **Starbelly** | Restaurant management system with admin panel & SPA | React, Node.js, Express | 🔗 Coming Soon |
 | 🗂️ **CRUD App**  | Full-featured CRUD application                      | JavaScript, Node.js     | 🔗 View        |
 
-</div>
+</div> -->
 
 ---
 
