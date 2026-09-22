@@ -10,7 +10,7 @@
 
 ## 🔥 Why Choose Me?
 
-- 🚀 **Eager to Grow** — Actively building skills across both frontend
+- 🚀 **Eager to Grow** — Actively building skills across both frontend and backend
 - 📖 **Fast Learner** — Pick up new tools and frameworks quickly, and enjoy the process
 - 🔍 **Detail-Oriented** — I care about writing clean, readable code and improving every day
 - 🤝 **Team-Friendly** — Easy to work with, open to feedback, and love collaborating
@@ -19,9 +19,9 @@
 
 ## 👤 About Me
 
-- 🚀 Passionate about building frontend web applications that make a real impact
-- 🌱 Currently learning and growing with **React, Next.js, Node.js, TypeScript, and Express.js**
-- 🍽️ Currently working on **Starbelly** — a restaurant admin panel & user-facing SPA
+- 🚀 Passionate about building frontend and backend web applications that make a real impact
+- 🌱 Currently learning and growing with **TypeScript, NodeJS, Express.js, Nest.js, React, Next.js and Python**
+<!-- - 🍽️ Currently working on **Starbelly** — a restaurant admin panel & user-facing SPA -->
 - 💡 Open to collaboration on **web development projects** and **open-source contributions**
 - ⚡ Fun fact: I enjoy solving complex puzzles and learning something new every day
 
@@ -45,6 +45,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🧰 Tools & Others
 
