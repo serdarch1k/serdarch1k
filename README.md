@@ -21,9 +21,9 @@
 
 - 🚀 Passionate about building frontend and backend web applications that make a real impact
 - 🌱 Currently learning and growing with **TypeScript, NodeJS, Express.js, Nest.js, React, Next.js and Python**
-<!-- - 🍽️ Currently working on **Starbelly** — a restaurant admin panel & user-facing SPA -->
 - 💡 Open to collaboration on **web development projects** and **open-source contributions**
 - ⚡ Fun fact: I enjoy solving complex puzzles and learning something new every day
+<!-- - 🍽️ Currently working on **Starbelly** — a restaurant admin panel & user-facing SPA -->
 
 ---
 
